@@ -1,5 +1,5 @@
 # Quotes
-The QUOTES APP is an application where users can create quotes and have those quotes up-voted or down-voted on whether they are terrible or are inspirational.
+The QUOTESAPP is an application where users can create quotes and have those quotes up-voted or down-voted on whether they are terrible or are inspirational.
 
 ## Development server
 
