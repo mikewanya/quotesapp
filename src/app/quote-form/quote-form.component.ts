@@ -1,7 +1,7 @@
 import { Component, OnInit, Output, EventEmitter } from '@angular/core';
 import{ Quote } from '../quote';
 import { isDate } from 'util';
-//edns here
+//ends here
 
 @Component({
   selector: 'app-quote-form',
