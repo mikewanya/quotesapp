@@ -6,8 +6,7 @@ The QUOTES APP is an application where users can create quotes and have those qu
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Functions
-Functionali
-ties:-
+Functionalities:-
 - You can Create a quote
 - You can Delete a quote.
 - You can Upvote
