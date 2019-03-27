@@ -1,4 +1,8 @@
 /*//Quote styles*/
+.container{
+background-color: grey; 
+}
+
 .titlez {
 color: red;
 padding-left: 180px;
